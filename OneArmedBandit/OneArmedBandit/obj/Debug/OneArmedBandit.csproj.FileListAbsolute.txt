@@ -1,0 +1,10 @@
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\bin\Debug\OneArmedBandit.exe.config
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\bin\Debug\OneArmedBandit.exe
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\bin\Debug\OneArmedBandit.pdb
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\obj\Debug\OneArmedBandit.csprojAssemblyReference.cache
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\obj\Debug\OneArmedBandit.Form1.resources
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\obj\Debug\OneArmedBandit.Properties.Resources.resources
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\obj\Debug\OneArmedBandit.csproj.GenerateResource.cache
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\obj\Debug\OneArmedBandit.csproj.CoreCompileInputs.cache
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\obj\Debug\OneArmedBandit.exe
+c:\users\hvs8017\OneDrive - Hereford Sixth Form College\Computer Science\Code\OneArmedBandit\OneArmedBandit\obj\Debug\OneArmedBandit.pdb
