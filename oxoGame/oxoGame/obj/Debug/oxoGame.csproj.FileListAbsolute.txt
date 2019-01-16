@@ -1,0 +1,6 @@
+H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.csprojAssemblyReference.cache
+H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.Form1.resources
+H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.GameUI.resources
+H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.Properties.Resources.resources
+H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.csproj.GenerateResource.cache
+H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.csproj.CoreCompileInputs.cache
