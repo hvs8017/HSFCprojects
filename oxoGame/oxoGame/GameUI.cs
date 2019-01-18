@@ -14,16 +14,16 @@ namespace oxoGame
     {
         private String player1;
         private String player2;
-        public GameUI(string text)
+        public GameUI(String p1name, String p2name)
         {
-            player1 = TextBox1;
-            player2 = TextBox2;
+            player1 = p1name;
+            player2 = p2name;
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            
         }
     }
 }

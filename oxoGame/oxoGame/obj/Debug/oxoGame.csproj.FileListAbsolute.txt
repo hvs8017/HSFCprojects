@@ -4,3 +4,14 @@ H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.GameUI.resourc
 H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.Properties.Resources.resources
 H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.csproj.GenerateResource.cache
 H:\My Documents\CompSciProjects\oxoGame\oxoGame\obj\Debug\oxoGame.csproj.CoreCompileInputs.cache
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\obj\Debug\oxoGame.csprojAssemblyReference.cache
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\obj\Debug\oxoGame.Form1.resources
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\obj\Debug\oxoGame.GameUI.resources
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\obj\Debug\oxoGame.Properties.Resources.resources
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\obj\Debug\oxoGame.csproj.GenerateResource.cache
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\obj\Debug\oxoGame.csproj.CoreCompileInputs.cache
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\bin\Debug\oxoGame.exe.config
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\bin\Debug\oxoGame.exe
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\bin\Debug\oxoGame.pdb
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\obj\Debug\oxoGame.exe
+C:\Users\Hannah Short\Documents\GitHub\HSFCprojects\oxoGame\oxoGame\obj\Debug\oxoGame.pdb
