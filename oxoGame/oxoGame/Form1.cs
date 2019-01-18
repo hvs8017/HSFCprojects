@@ -25,6 +25,12 @@ namespace oxoGame
             //we need to collect the two names and pass into game
             myGame = new GameUI(textBox1.Text, textBox2.Text);
             myGame.Show();
+            
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

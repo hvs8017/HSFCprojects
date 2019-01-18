@@ -16,14 +16,20 @@ namespace oxoGame
         private String player2;
         public GameUI(String p1name, String p2name)
         {
-            player1 = p1name;
-            player2 = p2name;
+            
             InitializeComponent();
+            label1.Text = p1name;
+            label2.Text = p2name;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
