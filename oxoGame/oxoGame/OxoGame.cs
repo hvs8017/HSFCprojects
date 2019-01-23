@@ -38,7 +38,7 @@ namespace oxoGame
 
         public String nextPlayer()
         {
-            currentPlayer = (currentPlayer + 1) % 2;    // get this? 
+            currentPlayer = (currentPlayer + 1) % 2;
             return players[currentPlayer];
         }
         // nextPiece returns the piece that makes the next move 
@@ -58,30 +58,17 @@ namespace oxoGame
         }
 
         public int makeMove(int x, int y, Piece move)
-
+            //this makes sure that there is either a space available or the coordinates are real
         {
 
-            // -THIS NEEDS IMPLEMENTING **************
-            if ((x >= 0) & (x <= 2) &(y >= 0) & (y <= 2))
+            if (theBoard[x, y] == Piece.Space |((x >= 0) & (x <= 2) & (y >= 0) & (y <= 2)))
             {
                 return 0;
             }
             else
             {
-                return -1;
+                return -2 | -1;
             }
-
-
-            if(theBoard[x, y] == Piece.Space)
-            {
-                return 0;
-            }
-            else
-            {
-                return -2;
-            }
-
-            return 999; // place holder so it compiles 
 
         }
   
@@ -91,16 +78,16 @@ namespace oxoGame
         {
 
             // - THIS NEEDS IMPLEMENTING    ************** 
+            if ((x >= 0) & (x <= 2) & (y >= 0) & (y <= 2))
+            {
+                return Piece.Nought;   // place holder so it compiles 
+            }
+            return theBoard[x, y];
 
 
-
-            // check x and y are in range 
-
-
-
+            
             // passes back the piece at required location 
 
-            return Piece.Nought;   // place holder so it compiles 
 
         }
         // detectWin detects whether a win has occurred 
