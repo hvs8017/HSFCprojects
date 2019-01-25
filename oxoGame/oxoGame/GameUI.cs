@@ -34,7 +34,6 @@ namespace oxoGame
         }
 
 
-
         private void button1_Click(object sender, EventArgs e)
 
         {
@@ -56,7 +55,6 @@ namespace oxoGame
                 // display your Cross image at 0,0  
 
                 button1.Image = Properties.Resources.cross;
-
             }
 
             theGame.MakeMove(0, 0, currentPiece);  // make the move in the model too! 
@@ -69,6 +67,10 @@ namespace oxoGame
 
         }
 
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
  
     
