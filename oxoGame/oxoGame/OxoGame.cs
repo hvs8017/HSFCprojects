@@ -92,7 +92,7 @@ namespace oxoGame
         }
         // detectWin detects whether a win has occurred 
 
-        // returns 0 is Nought wins, 1 if Cross wins, 2 if draw, -1 if no win yet 
+        // returns 0 is Nought wins, 1 if Cross wins, 2 if draw, -1 if there is no win yet 
         public int detectWin()
         {
 
