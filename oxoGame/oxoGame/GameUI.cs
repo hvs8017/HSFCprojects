@@ -16,6 +16,7 @@ namespace oxoGame
         private String player2;
         private String currentPlayer;
         private OxoGame.Piece currentPiece;
+
         private OxoGame makeMove;
         private String nextPiece;
         public GameUI(String p1name, String p2name)
@@ -36,7 +37,7 @@ namespace oxoGame
             currentPlayer = theGame.nextPlayer();
 
             currentPiece = theGame.nextPiece();
-
+            
         }
 
 
@@ -60,7 +61,7 @@ namespace oxoGame
 
             theGame.makeMove(0, 0, currentPiece);  // make the move in the model too! 
 
-            currentPlayer = theGame.nextPlayer();
+            currentPlayer = GameUI.theGame.nextPlayer();
 
             currentPiece = theGame.nextPiece();
 
