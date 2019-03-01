@@ -16,12 +16,10 @@ namespace oxoGame
         private String player2;
         private String currentPlayer;
         private OxoGame.Piece currentPiece;
+        
 
-        private OxoGame makeMove;
-        private String nextPiece;
         public GameUI(String p1name, String p2name)
-        {
-            
+        {   
             InitializeComponent();
             label1.Text = p1name;
             label2.Text = p2name;
@@ -37,11 +35,10 @@ namespace oxoGame
             currentPlayer = theGame.nextPlayer();
 
             currentPiece = theGame.nextPiece();
-            
+
+
         }
-
-
-        private void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e)
            
         {
             
@@ -59,9 +56,9 @@ namespace oxoGame
                 button1.Image = Properties.Resources.cross;
             }
 
-            theGame.makeMove(0, 0, currentPiece);  // make the move in the model too! 
+            OxoGame.theGame.makeMove(0, 0, currentPiece);  
 
-            currentPlayer = GameUI.theGame.nextPlayer();
+            currentPlayer = theGame.nextPlayer();
 
             currentPiece = theGame.nextPiece();
 
@@ -71,14 +68,36 @@ namespace oxoGame
 
         private void button7_Click(object sender, EventArgs e)
         {
+            if (currentPiece == OxoGame.Piece.Nought)
 
+            {
+                // display your Nought image at 0,0  
+                button1.Image = Properties.Resources.Nought;
+            }
+
+            else
+
+            {
+                // display your Cross image at 0,0  
+                button1.Image = Properties.Resources.cross;
+            }
+
+            theGame.makeMove(0, 0, currentPiece);
+
+            currentPlayer = theGame.nextPlayer();
+
+            currentPiece = theGame.nextPiece();
+
+            // now test for a win too;
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
 
         }
-    }
- 
+        private void button8_Click(object sender, EventArgs e)
+        {
 
+        }
+    }
 }
