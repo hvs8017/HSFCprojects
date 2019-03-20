@@ -8,7 +8,7 @@ namespace SchoolRecords
 {
     class Teacher:Person   // "Teacher inherits Person"  or "Teacher extends Person"
     {
-        private Subjects teaches;
+        private Subjects teaches; 
 
     }
 }
